@@ -43,7 +43,7 @@ header {
   }
   
   main {
-    margin-top: 300px;
+    margin-top: 420px;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
@@ -107,18 +107,18 @@ main {
 }
 @media screen and (min-width: 500px) {
   main {
-    margin-top: 200px;
+    margin-top: 380px;
   }
 }
 @media screen and (min-width: 700px) {
   main {
     padding: 2em;
-    margin-top: 220px;
+    margin-top: 400px;
   }
 }
 @media screen and (min-width: 1200px) {
   main {
-    margin-top: 140px;
+    margin-top: 180px;
   }
 }
 
@@ -446,7 +446,7 @@ h1 span {
   
   main {
     width: 85%;
-    margin-top: 350px;
+    margin-top: 450px;
   }
 }
 
